@@ -1,6 +1,7 @@
 # Non-Invasive Glucose Monitoring System (Research-Based)
 <p align="center">
-  <img src="" alt="Prototype " width="48%" />
+  <img src="<img width="2338" height="949" alt="Picture1" src="https://github.com/user-attachments/assets/034d8df6-847b-4240-92ec-d121a5cce6b7" />
+" alt="Prototype " width="48%" />
 
 </p>
 This repository hosts the initial firmware, data analysis pipeline, and research documentation for a non-invasive blood glucose trend estimation system using PPG sensors.
