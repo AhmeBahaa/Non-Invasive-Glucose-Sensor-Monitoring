@@ -1,0 +1,10 @@
+Metric,Training Set,Test Set
+R2,0.9800,0.9747
+Pearson r,0.9900,0.9873
+MAE (mg/dL),2.52,2.53
+RMSE (mg/dL),9.43,8.30
+MARD (%),1.17,1.42
+Bias (mg/dL),-0.04,-0.06
+Zone A (Clarke %),98.7,98.3
+Train Samples,1179,-
+Test Samples,-,295
